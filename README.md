@@ -17,6 +17,7 @@ Each file includes:
 ## 🛠️ Languages Used
 
 - Python
+- C++
 
 ## ✨ Purpose
 
